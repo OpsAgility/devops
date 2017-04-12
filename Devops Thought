@@ -1,0 +1,39 @@
+Five levels
+Values :
+	CAMS: Culture, Automation, Measure, Share. Lean
+Principals
+  Three ways developed by autor of the phoenix project
+	Systems thinking: focus on entire value chain dont over optimize. Concept to cash.
+	Amplyfing feedback: short effective loop, dev to op,  bug reporting worst is by customer. 
+	Culture of continious experimentation and learning.
+Methods
+	People over process over tools.
+	Continious delivery
+	Lean management: small batches, feedback loop, visualization
+	Change control: eliminate fragile artifacts, repeatable build process, manage dependecies, continious improvement.	                
+	IAC: System treated like cattle not pets, code review, tested, managed programabily.
+Practices:
+	Incident command system.
+	Developers on call.
+	Status pages. eg azure serices down. mitigation documented. 
+	Embedded teams
+	the cloud: api driven infra
+	Blue/Green deployment.
+	Chaos Monkey.
+Tools:
+you choose
+
+
+
+	replaces the model where different teams do different work. 
+	operations teams use the same techniques as developers 
+	Eevery asset is checked in and have tests associated with it.
+
+
+why do you care
+deploy faster, fail less recover faster.
+lean management and continious delivery help deliver values faster.
+reduces unplanned work.
+
+
+twelve factor apps, serverless
